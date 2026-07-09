@@ -1,4 +1,4 @@
-🚀 EMON BOT — Professional WhatsApp Multi-Device Bot
+🚀 ARIYAN BOT — Professional WhatsApp Multi-Device Bot
 
 <p align="center">
   <img src="https://i.imgur.com/placeholder.png" width="180">
